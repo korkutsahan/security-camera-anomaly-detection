@@ -2,21 +2,57 @@
 
 Prototype system designed to detect abnormal situations in security camera streams.
 
-The system aims to detect events such as:
+This project focuses on identifying anomalies that may indicate potential issues or tampering in surveillance systems.
+
+---
+
+## Project Overview
+
+Security camera systems may experience abnormal events such as video freezing, looping, blur, or sudden lighting changes. These situations can indicate technical failures or potential security risks.
+
+This project explores a prototype system capable of detecting such anomalies in video streams.
+
+The goal is to automatically identify suspicious behavior in surveillance footage.
+
+---
+
+## Detected Events
+
+The system focuses on detecting the following anomalies:
 
 - Freeze detection
 - Loop detection
 - Blur detection
-- Lighting changes
+- Sudden lighting changes
 
-These anomalies may indicate potential issues or tampering in surveillance systems.
+---
+
+## Technologies
+
+- Python
+- Computer Vision
+- Video Frame Analysis
+
+---
 
 ## Project Status
 
 This project was developed as an experimental prototype.
 
-The implementation and detection logic were tested during development, but the final code and dataset are currently unavailable.
+Some implementation files and datasets are currently unavailable, but the project concept and detection examples are presented through screenshots.
+
+---
 
 ## Screenshots
 
-Example detections from the prototype system are shown below.
+Example anomaly detections from the prototype system.
+
+(Add screenshots here)
+
+---
+
+## Author
+
+Korkut Şahan  
+Software Engineering Student  
+Samsun University
