@@ -43,14 +43,6 @@ Some implementation files and datasets are currently unavailable, but the projec
 
 ---
 
-## Screenshots
-
-Example anomaly detections from the prototype system.
-
-(Add screenshots here)
-
----
-
 ## Author
 
 Korkut Şahan  
